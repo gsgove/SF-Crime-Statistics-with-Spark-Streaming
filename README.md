@@ -57,7 +57,7 @@ Getting the best performance out of a Spark Streaming application requires a bit
 
 1. Reducing the processing time of each batch of data by efficiently using cluster resources.
 
-2.Setting the right batch size such that the batches of data can be processed as fast as they are received (that is, data processing keeps up with the data ingestion).
+2. Setting the right batch size such that the batches of data can be processed as fast as they are received (that is, data processing keeps up with the data ingestion).
 
 As mentioned before, I didn't see major changes when making slightly different configurations. Seems to me, that MaxRatePerPartition and the MaxOffsetPerrtigger at 200 values work ok. I read in the literature that also working with Parallelism and the number of local nodes could also improve the performance. Anyhow, it's important to carefully choose them rather than accepting the default values.
     
