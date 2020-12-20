@@ -1,4 +1,5 @@
-# <font color=blue>SF Crime Statistics with Spark Streaming by Gregorio Gonzalez</font>
+# SF Crime Statistics with Spark Streaming
+### by Gregorio Gonzalez
 
 ## Introduction
 In this project, a real-world dataset has been provided, extracted from Kaggle, on San Francisco crime incidents, and statistical analyses of the data using Apache Spark Structured Streaming need to be provided. A Kafka server will be generated to produce data and ingest it through Spark Structured Streaming.
@@ -32,17 +33,17 @@ The project was successfully implemented with no errors.
 
 After running the codes from terminal 1 to 5, I was able to get the Kafka Consumer Console working. Screen capture is shown below.
 
-##### <font color=blue>Kafka_Consumer_Console</font>
+##### Kafka_Consumer_Console
 
 ![schema](01_Kafka_Consumer_Console.jpg)
 
 Additionally, after running the code in terminal 6 I was able to execute the Spark jobs and retrieve the Progress Reporter and Spark UI screens capture shown below.
 
-##### <font color=blue>Spark_Job_Progress_Reporter</font>
+##### Spark_Job_Progress_Reporter
 
 ![schema](02_Spark_Job_Progress_Reporter.jpg)
 
-##### <font color=blue>Spark_Streaming_UI</font>
+##### Spark_Streaming_UI
 
 ![schema](03_Spark_Streaming_UI.jpg)    
     
