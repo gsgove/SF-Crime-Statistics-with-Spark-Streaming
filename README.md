@@ -34,7 +34,7 @@ After running the codes from terminal 1 to 5, I was able to get the Kafka Consum
 
 ##### <font color=blue>Kafka_Consumer_Console</font>
 
-![schema](https://r899655c909728xjupyterlk0olu9jb.udacity-student-workspaces.com/files/images/01_Kafka_Consumer_Console.jpg?_xsrf=2%7C2e0d1bf5%7C4b43b13bb039d92e371adf954c726206%7C1607556168)
+![schema](01_Kafka_Consumer_Console.jpg)
 
 Additionally, after running the code in terminal 6 I was able to execute the Spark jobs and retrieve the Progress Reporter and Spark UI screens capture shown below.
 
