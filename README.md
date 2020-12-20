@@ -40,7 +40,7 @@ Additionally, after running the code in terminal 6 I was able to execute the Spa
 
 ##### <font color=blue>Spark_Job_Progress_Reporter</font>
 
-![schema](https://r899655c909728xjupyterlk0olu9jb.udacity-student-workspaces.com/files/images/02_Spark_Job_Progress_Reporter.jpg?_xsrf=2%7C2e0d1bf5%7C4b43b13bb039d92e371adf954c726206%7C1607556168)
+![schema](02_Spark_Job_Progress_Reporter.jpg)
 
 ##### <font color=blue>Spark_Streaming_UI</font>
 
